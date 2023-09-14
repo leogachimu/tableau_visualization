@@ -63,6 +63,7 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
 	- Karita (1,287 kgs/Ha (maize) against 193.9 kg/Ha (sorghum))
  	- Lopeei (1,053 kgs/Ha (maize) against 108.2 kgs/Ha (sorghum)) and
   	- Loroo (196 kgs/Ha (maize) against 200.7 kg/Ha (sorghum))<br>
+   
 We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include:<br>
 	- Katikekile at 546 kgs/Ha (maize) against 311 kg/Ha (sorghum) and
  	- Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum)
@@ -74,6 +75,7 @@ We can also discover a few sub-counties where the yield of sorghum is relatively
 	- Namalu in Nakapiripirit District (1,886 kgs/Ha)
  	- Alerek in Abim District (1,780 kgs/Ha) and
   	- Sidok in Kaabong District (1,682 kgs/Ha)<br>
+   
 The 3 least productive sub-counties are:<br>
 	- Northern Division (374 kgs/Ha)
  	- Tapac (368 kgs/Ha) and
