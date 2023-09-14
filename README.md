@@ -17,20 +17,22 @@ Based on your experience, the team expects you to come up with a first draft wit
         ii.) The possibility of visualizing the results by district or sub-county (two administrative levels used by the NGO)
 
 # Dataset Files 
-Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)  
-•	Shapefiles
-o	Boundaries of Uganda Subcounties 
-o	Boundaries of Uganda Districts 
-o	Crop Type Map for Sorghum (i.e. position of the Sorghum fields)
-o	Crop Type Map for Maize
-•	Tables
-o	Yield and Population per Subcounty
-	POP: total population for the sub-county 
-	S_Yield_Ha: average yield for sorghum for the sub-county (Kg/Ha)
-	M_Yield_Ha: average yield for maize for the sub-county (Kg/Ha)
-	Crop_Area_Ha: total crop area for the sub-county (Ha)
-	S_Area_Ha: total sorghum crop area for the sub-county (Ha)
-	M_Area_Ha: total maize crop area for the sub-county (Ha)
-	S_Prod_Tot: total productivity for the sorghum for the sub-county (Kg)
-	M_Prod_Tot: total productivity for the maize for the sub-county (Kg)
-o	Yield and Population per District 
+Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip) 
+1.) Shapefiles
+        i.) Boundaries of Uganda Subcounties <br>
+        ii.) Boundaries of Uganda Districts <br>
+        iii.) Crop Type Map for Sorghum (i.e. position of the Sorghum fields)
+        iv.) Crop Type Map for Maize 
+        
+2.) Tables
+        A.) Yield and Population per Subcounty
+        i.) POP: total population for the sub-county <br>
+        ii.) S_Yield_Ha: average yield for sorghum for the sub-county (Kg/Ha) <br>
+        iii.) M_Yield_Ha: average yield for maize for the sub-county (Kg/Ha)
+        iv.) Crop_Area_Ha: total crop area for the sub-county (Ha)
+        v.) S_Area_Ha: total sorghum crop area for the sub-county (Ha)
+        vi.) M_Area_Ha: total maize crop area for the sub-county (Ha)
+        vii.) S_Prod_Tot: total productivity for the sorghum for the sub-county (Kg)
+        viii.) M_Prod_Tot: total productivity for the maize for the sub-county (Kg)
+        
+        B.) Yield and Population per District 
