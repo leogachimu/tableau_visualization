@@ -12,7 +12,7 @@ As a Data Scientist, the agri-tech team is asking you to develop an interactive 
 
 Based on your experience, the team expects you to come up with a first draft within the coming 3 working days. They give you carte blanche in terms of structure and functionalities but they know that the client wants:
 
-        i.) At least a map in the dashboard <br>
+        i.) At least a map in the dashboard
         
         ii.) The possibility of visualizing the results by district or sub-county (two administrative levels used by the NGO)
 
