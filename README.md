@@ -79,7 +79,7 @@ The 3 least productive sub-counties are:<br>
  	- Tapac (368 kgs/Ha) and
   	- Southern Division (115 kgs/Ha), all in Moroto District.<br>
 
-On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield (483 kgs/Ha).
+	On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield 	(483 kgs/Ha).
 
 ![Distribution of Total Yield per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/c0116c58-c549-4ebf-b779-60ff3f4f3e0f)
 
