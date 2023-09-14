@@ -49,7 +49,7 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
 
 ![Total Productivity per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/507195b3-cfcd-4ffd-bb2b-0a444d465037)
 
-2.	From the distribution of total productivity across the districts, I found out that Kotido district has the highest productivity at 18,642,479 kgs, followed by Nakapiripirit at 14,970,688 kgs. The least productivity is in Moroto at only 1,029,412 kgs.
+2.	From the distribution of total productivity across the districts, I found out that Kotido district has the highest productivity at **18,642,479 kgs**, followed by Nakapiripirit at **14,970,688 kgs**. The least productivity is in Moroto at only **1,029,412 kgs**.
 
 ![Map of Productivity per District](https://github.com/leogachimu/tableau_visualization/assets/122081776/ae5b59de-c656-4570-9603-190751187fdc)
 
@@ -59,21 +59,33 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
 
 ![Sorghum-Yield vs Maize-Yield in a SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/1db164b1-1e5b-47ed-a581-fcac3ce5031d)
 
-4.	From both the scatter plot and the tree map of maize yield vs sorghum yield, we can also discover the sub-counties where the yield of maize is high but the yield of sorghum is unusually low. These include Karita (1,287 kgs/Ha (maize) against 193.9 kg/Ha (sorghum)), Lopeei (1,053 kgs/Ha (maize) against 108.2 kgs/Ha (sorghum)), and Loroo (196 kgs/Ha (maize) against 200.7 kg/Ha (sorghum)).
-
-We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include Katikekile at 546 kgs/Ha (maize) against 311 kg/Ha (sorghum) and Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum).
+4.	From both the scatter plot and the tree map of maize yield vs sorghum yield, we can also discover the sub-counties where the yield of maize is high but the yield of sorghum is unusually low. These include:
+	- Karita (1,287 kgs/Ha (maize) against 193.9 kg/Ha (sorghum))
+ 	- Lopeei (1,053 kgs/Ha (maize) against 108.2 kgs/Ha (sorghum)) and
+  	- Loroo (196 kgs/Ha (maize) against 200.7 kg/Ha (sorghum))
+We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include:
+	- Katikekile at 546 kgs/Ha (maize) against 311 kg/Ha (sorghum) and
+ 	- Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum).
 
 ![Sorghum-Yield vs Maize-Yield in a SubCounty (Treemap)](https://github.com/leogachimu/tableau_visualization/assets/122081776/8e690d4f-0e08-4c14-bfd1-5ef97c00ddeb)
 
 
-5.	From the distribution of total yield (kgs of both maize and sorghum per hectare) across the sub-counties, we can see that some of the most productive sub-counties include Namalu in Nakapiripirit District (1,886 kgs/Ha), Alerek in Abim District (1,780 kgs/Ha), and Sidok in Kaabong District (1,682 kgs/Ha). The 3 least productive sub-counties are Northern Division (374 kgs/Ha), Tapac (368 kgs/Ha), and Southern Division (115 kgs/Ha), all in Moroto District. On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield (483 kgs/Ha).
+5.	From the distribution of total yield (kgs of both maize and sorghum per hectare) across the sub-counties, we can see that some of the most productive sub-counties include:
+	- Namalu in Nakapiripirit District (1,886 kgs/Ha)
+ 	- Alerek in Abim District (1,780 kgs/Ha) and
+  	- Sidok in Kaabong District (1,682 kgs/Ha)
+The 3 least productive sub-counties are:
+	- Northern Division (374 kgs/Ha)
+ 	- Tapac (368 kgs/Ha) and
+  	- Southern Division (115 kgs/Ha), all in Moroto District.
+On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield (483 kgs/Ha).
 
 ![Distribution of Total Yield per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/c0116c58-c549-4ebf-b779-60ff3f4f3e0f)
 
 ![Distribution of Total Yield per District](https://github.com/leogachimu/tableau_visualization/assets/122081776/98932c95-d08f-4b65-bad0-9df2791b5ce5)
 
 
-6.	I also sought to discover the sub-counties and districts with the highest potential productivity that is left unexploited. I did this by creating a field for the sum of yield (maize yield plus sorghum yield) multiplied by the crop area not in use. From the respective distributions, we can see that Kotido District has the highest missed potential productivity at 1,529,039 kgs and within it, the Kotido subcounty has the highest missed potential productivity at 470,948 kgs. Moroto District has the lowest missed potential productivity of 11,116 kgs.
+6.	I also sought to discover the sub-counties and districts with the highest potential productivity that is left unexploited. I did this by creating a field for the sum of yield (maize yield plus sorghum yield) multiplied by the crop area not in use. From the respective distributions, we can see that Kotido District has the highest missed potential productivity at **1,529,039 kgs** and within it, the Kotido subcounty has the highest missed potential productivity at **470,948 kgs**. Moroto District has the lowest missed potential productivity of **11,116 kgs**.
    
 ![Distribution of Potential Productivity Lost per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/d7f4fbd7-5903-4366-8bb9-964279a55fe3)
 
@@ -87,4 +99,5 @@ We can also discover a few sub-counties where the yield of sorghum is relatively
 	
 3.	The districts with the highest overall productivity- Kotido and Nakapiripirit- are also the districts with the highest overall lost production potential. They should therefore be given more attention in optimizing the unexploited crop area in the Karamoja region.
 
+## Tableau Public Dashboard
 Please see my dashboards here [https://public.tableau.com/app/profile/leonard.gachimu/viz/MaizeandSorghumProductivityinKaramojaUganda/Dashboard2?publish=yes](https://public.tableau.com/app/profile/leonard.gachimu/viz/MaizeandSorghumProductivityinKaramojaUganda/Dashboard2?publish=yes)
