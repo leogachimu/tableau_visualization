@@ -17,31 +17,31 @@ Based on your experience, the team expects you to come up with a first draft wit
         ii.) The possibility of visualizing the results by district or sub-county (two administrative levels used by the NGO)
 
 # Dataset Files 
-Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip) 
+Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
 
-1.) Shapefiles
-        i.) Boundaries of Uganda Subcounties <br>
-        ii.) Boundaries of Uganda Districts <br>
-        iii.) Crop Type Map for Sorghum (i.e. position of the Sorghum fields)<br>
-        iv.) Crop Type Map for Maize<br>
+        1.) Shapefiles<br>
+                i.) Boundaries of Uganda Subcounties <br>
+                ii.) Boundaries of Uganda Districts <br>
+                iii.) Crop Type Map for Sorghum (i.e. position of the Sorghum fields)<br>
+                iv.) Crop Type Map for Maize<br>
         
-2.) Tables<br>
-        A.) Yield and Population per Subcounty<br>
-        i.) POP: total population for the sub-county <br>
-        ii.) S_Yield_Ha: average yield for sorghum for the sub-county (Kg/Ha) <br>
-        iii.) M_Yield_Ha: average yield for maize for the sub-county (Kg/Ha)<br>
-        iv.) Crop_Area_Ha: total crop area for the sub-county (Ha)<br>
-        v.) S_Area_Ha: total sorghum crop area for the sub-county (Ha)<br>
-        vi.) M_Area_Ha: total maize crop area for the sub-county (Ha)<br>
-        vii.) S_Prod_Tot: total productivity for the sorghum for the sub-county (Kg)<br>
-        viii.) M_Prod_Tot: total productivity for the maize for the sub-county (Kg)<br>        
-        B.) Yield and Population per District <br>
-        i.) POP: total population for the district <br>
-        ii.) S_Yield_Ha: average yield for sorghum for the district (Kg/Ha) <br>
-        iii.) M_Yield_Ha: average yield for maize for the district (Kg/Ha)<br>
-        iv.) Crop_Area_Ha: total crop area for the district (Ha)<br>
-        v.) S_Area_Ha: total sorghum crop area for the district (Ha)<br>
-        vi.) M_Area_Ha: total maize crop area for the district (Ha)<br>
-        vii.) S_Prod_Tot: total productivity for the sorghum for the district (Kg)<br>
-        viii.) M_Prod_Tot: total productivity for the maize for the district (Kg)<br>        
+        2.) Tables<br>
+                A.) Yield and Population per Subcounty<br>
+                        i.) POP: total population for the sub-county <br>
+                        ii.) S_Yield_Ha: average yield for sorghum for the sub-county (Kg/Ha) <br>
+                        iii.) M_Yield_Ha: average yield for maize for the sub-county (Kg/Ha)<br>
+                        iv.) Crop_Area_Ha: total crop area for the sub-county (Ha)<br>
+                        v.) S_Area_Ha: total sorghum crop area for the sub-county (Ha)<br>
+                        vi.) M_Area_Ha: total maize crop area for the sub-county (Ha)<br>
+                        vii.) S_Prod_Tot: total productivity for the sorghum for the sub-county (Kg)<br>
+                        viii.) M_Prod_Tot: total productivity for the maize for the sub-county (Kg)<br>        
+                B.) Yield and Population per District <br>
+                        i.) POP: total population for the district <br>
+                        ii.) S_Yield_Ha: average yield for sorghum for the district (Kg/Ha) <br>
+                        iii.) M_Yield_Ha: average yield for maize for the district (Kg/Ha)<br>
+                        iv.) Crop_Area_Ha: total crop area for the district (Ha)<br>
+                        v.) S_Area_Ha: total sorghum crop area for the district (Ha)<br>
+                        vi.) M_Area_Ha: total maize crop area for the district (Ha)<br>
+                        vii.) S_Prod_Tot: total productivity for the sorghum for the district (Kg)<br>
+                        viii.) M_Prod_Tot: total productivity for the maize for the district (Kg)<br>        
         
