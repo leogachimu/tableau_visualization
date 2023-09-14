@@ -64,7 +64,7 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
  	- Lopeei (1,053 kgs/Ha (maize) against 108.2 kgs/Ha (sorghum)) and
   	- Loroo (196 kgs/Ha (maize) against 200.7 kg/Ha (sorghum))<br>
 
-We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include:
+We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include:<br>
 	- Katikekile at 546 kgs/Ha (maize) against 311 kg/Ha (sorghum) and
  	- Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum).
 
@@ -76,10 +76,10 @@ We can also discover a few sub-counties where the yield of sorghum is relatively
  	- Alerek in Abim District (1,780 kgs/Ha) and
   	- Sidok in Kaabong District (1,682 kgs/Ha)<br>
 
-The 3 least productive sub-counties are:
+The 3 least productive sub-counties are:<br>
 	- Northern Division (374 kgs/Ha)
  	- Tapac (368 kgs/Ha) and
-  	- Southern Division (115 kgs/Ha), all in Moroto District.
+  	- Southern Division (115 kgs/Ha), all in Moroto District.<br>
 On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield (483 kgs/Ha).
 
 ![Distribution of Total Yield per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/c0116c58-c549-4ebf-b779-60ff3f4f3e0f)
@@ -98,7 +98,9 @@ On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Mo
 1.	There is a potential to increase the total production of wheat and sorghum by investing in better technologies, farmer education, and other measures in some of the districts and sub-counties where the production is too low. These include Abim and Moroto districts overall, and Northern Division, Tapac and Southern Division sub-counties in Moroto District.
    
 2.	The general trend is that the higher the maize yield in a sub-county, the higher the sorghum yield. Therefore, the NGOs in Karamoja should focus more attention on the sub-counties where there is an unusual correlation between maize yield and sorghum yield. If the maize yield is unusually low compared to other sub-counties with comparable sorghum yield, then there is a likelihood that farmers are following the wrong maize farming practices.
-Such sub-counties include Katikekile and Nyakwae. Similarly, where the sorghum yield is unusually low compared to other sub-counties with comparable maize yield, then there is a likelihood that farmers are following the wrong sorghum farming practices. Such sub-counties include Karita, Lopeei, and Loroo.
+Such sub-counties include Katikekile and Nyakwae.
+
+Similarly, where the sorghum yield is unusually low compared to other sub-counties with comparable maize yield, then there is a likelihood that farmers are following the wrong sorghum farming practices. Such sub-counties include Karita, Lopeei, and Loroo.
 	
 4.	The districts with the highest overall productivity- Kotido and Nakapiripirit- are also the districts with the highest overall lost production potential. They should therefore be given more attention in optimizing the unexploited crop area in the Karamoja region.
 
