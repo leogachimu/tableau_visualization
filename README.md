@@ -82,5 +82,9 @@ We can also discover a few sub-counties where the yield of sorghum is relatively
 
 ## Recommendations:
 1.	There is a potential to increase the total production of wheat and sorghum by investing in better technologies, farmer education, and other measures in some of the districts and sub-counties where the production is too low. These include Abim and Moroto districts overall, and Northern Division, Tapac and Southern Division sub-counties in Moroto District.
+   
 2.	The general trend is that the higher the maize yield in a sub-county, the higher the sorghum yield. Therefore, the NGOs in Karamoja should focus more attention on the sub-counties where there is an unusual correlation between maize yield and sorghum yield. If the maize yield is unusually low compared to other sub-counties with comparable sorghum yield, then there is a likelihood that farmers are following the wrong maize farming practices. Such sub-counties include Katikekile and Nyakwae. Similarly, where the sorghum yield is unusually low compared to other sub-counties with comparable maize yield, then there is a likelihood that farmers are following the wrong sorghum farming practices. Such sub-counties include Karita, Lopeei, and Loroo.
+	
 3.	The districts with the highest overall productivity- Kotido and Nakapiripirit- are also the districts with the highest overall lost production potential. They should therefore be given more attention in optimizing the unexploited crop area in the Karamoja region.
+
+Please see my dashboards here [https://public.tableau.com/app/profile/leonard.gachimu/viz/MaizeandSorghumProductivityinKaramojaUganda/Dashboard2?publish=yes](https://public.tableau.com/app/profile/leonard.gachimu/viz/MaizeandSorghumProductivityinKaramojaUganda/Dashboard2?publish=yes)
