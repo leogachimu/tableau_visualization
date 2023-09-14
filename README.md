@@ -66,7 +66,7 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
 
 We can also discover a few sub-counties where the yield of sorghum is relatively high but the yield of maize is unusually low. These include:<br>
 	- Katikekile at 546 kgs/Ha (maize) against 311 kg/Ha (sorghum) and
- 	- Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum).
+ 	- Nyakwae at 779 kgs/Ha (maize) against 329.8 kg/Ha (sorghum)
 
 ![Sorghum-Yield vs Maize-Yield in a SubCounty (Treemap)](https://github.com/leogachimu/tableau_visualization/assets/122081776/8e690d4f-0e08-4c14-bfd1-5ef97c00ddeb)
 
@@ -80,6 +80,7 @@ The 3 least productive sub-counties are:<br>
 	- Northern Division (374 kgs/Ha)
  	- Tapac (368 kgs/Ha) and
   	- Southern Division (115 kgs/Ha), all in Moroto District.<br>
+
 On average, Nakapiripirit District has the highest yield (1,620 kgs/Ha) while Moroto District has the lowest yield (483 kgs/Ha).
 
 ![Distribution of Total Yield per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/c0116c58-c549-4ebf-b779-60ff3f4f3e0f)
