@@ -14,7 +14,8 @@ Based on your experience, the team expects you to come up with a first draft wit
 
         i.) At least a map in the dashboard
         
-        ii.) The possibility of visualizing the results by district or sub-county (two administrative levels used by the NGO)
+        ii.) The possibility of visualizing the results by district or sub-county 
+	(two administrative levels used by the NGO)
 
 ## Dataset Files 
 Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
@@ -45,7 +46,7 @@ Dataset Source [Link](https://archive.org/download/data_20190829/DATA.zip)<br>
                         vii.) S_Prod_Tot: total productivity for the sorghum for the district (Kg)
                         viii.) M_Prod_Tot: total productivity for the maize for the district (Kg)       
 ## Findings:
-1.	From the distribution of total productivity across the sub-counties, we can see that Namalu SubCounty has the highest productivity at 5,596,386 kgs of both maize and sorghum. Kotido sub-county follows closely with 5,541,496 kgs.
+1.	From the distribution of total productivity across the sub-counties, we can see that Namalu SubCounty has the highest productivity at **5,596,386 kgs** of both maize and sorghum. Kotido sub-county follows closely with **5,541,496 kgs**.
 
 ![Total Productivity per SubCounty](https://github.com/leogachimu/tableau_visualization/assets/122081776/507195b3-cfcd-4ffd-bb2b-0a444d465037)
 
